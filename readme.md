@@ -22,10 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
-### Get started with the following commands:
-
-```
-npm run serve
-```
